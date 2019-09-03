@@ -1,0 +1,2 @@
+# graphene-ponyorm
+这是结合PonyORM实现后端GraphQL的Python包
